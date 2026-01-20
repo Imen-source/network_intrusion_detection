@@ -94,6 +94,12 @@ streamlit run app.py
 Open in browser:
 
 http://localhost:8501
+
+## 🌐 Live Demo
+
+The Streamlit app is **live and fully functional on Streamlit Cloud**:  
+[Open Network Intrusion Detection App](https://networkintrusiondetection-jeckre2xkpgqmhjup8mrd7.streamlit.app/ )
+
 📊 Dataset
 NSL-KDD (Improved version of KDD Cup 99)
 
